@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Octocat](https://www.sccpre.cat/mypng/detail/507-5079996_wheres-waldocat-github-octocat.png)
